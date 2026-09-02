@@ -2,7 +2,7 @@
 
 int main()
 {
- printf("GitHUb Sesstion");
+ printf("GitHUb Sesstion devin\n");
 
 return 0;
 }
